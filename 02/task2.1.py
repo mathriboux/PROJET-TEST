@@ -6,3 +6,6 @@ for i in range(1, 10):
     total = total + nombre
 print(total)
 
+for i in range(2, 6):
+    to = total ** i
+    print(to)
