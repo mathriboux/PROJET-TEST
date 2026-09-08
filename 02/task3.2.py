@@ -1,4 +1,4 @@
-nombre = 123456789 * 987654321
+nombre = int(12.24)
 texte = str(nombre)
 
 total = 0
